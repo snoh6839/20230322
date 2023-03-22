@@ -1,4 +1,3 @@
 <?php
-    $test = date('y-m-d h:i:3');
-    $cnt = 0;
+    print "안녕하세요";
 ?>
