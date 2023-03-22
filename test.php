@@ -5,4 +5,10 @@
     echo "echo로 입력 \n";
 
     // var_dump(print "안녕하세요 \n");
+
+    $testNum = 1;
+    echo $testNum , "\n";
+
+    $testString = '변수';
+    echo $testString;
 ?>
